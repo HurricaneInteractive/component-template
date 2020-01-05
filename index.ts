@@ -1,1 +1,1 @@
-export { default, __COMPONENT__Props } from './__COMPONENT__';
+export { default } from './__COMPONENT__';
